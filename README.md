@@ -5,7 +5,7 @@ I am a Data Science graduate student at Pace University, leveraging my backgroun
 ---
 
 ## Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=py,aws,mysql,mongodb,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,mysql,mongodb,vscode,sklearn, )](https://skillicons.dev)
 
 - **Programming**: Python (Pandas, NumPy, SciPy), SQL
 - **Data Science**: Scikit-learn, Machine Learning Algorithms (regression, clustering, classification)
