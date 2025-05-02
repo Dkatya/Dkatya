@@ -36,4 +36,5 @@ Performed big data analysis on flight delay data to uncover patterns across airp
 ---
 
 📫 **Let’s Connect**  
-- [LinkedIn](www.linkedin.com/in/yekaterina-donegal)
+[LinkedIn](https://www.linkedin.com/in/yekaterina-donegal)
+
