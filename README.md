@@ -19,10 +19,10 @@ I am a Data Science graduate student at Pace University, leveraging my backgroun
 ---
 ## What I’m Into
 
-📊 Leveraging data to drive business growth, optimize decision-making, and enhance customer experience across industries
-🧠 Exploring the intersection of human behavior, data analysis, and technology to create meaningful insights
-🔍 Conducting research and analysis to solve complex, real-world problems in both academic and industry settings
-🤝 Collaborating with diverse teams on cross-disciplinary projects that have a tangible, positive impact on communities and businesses
+-  Leveraging data to drive business growth, optimize decision-making, and enhance customer experience across industries
+- Exploring the intersection of human behavior, data analysis, and technology to create meaningful insights
+- Conducting research and analysis to solve complex, real-world problems in both academic and industry settings
+- Collaborating with diverse teams on cross-disciplinary projects that have a tangible, positive impact on communities and businesses
 
 ---
 
