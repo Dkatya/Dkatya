@@ -29,10 +29,21 @@ I am a Data Science graduate student at Pace University, leveraging my backgroun
 ## Projects
 
 ### 1. **Flight Delay Data Analysis (AWS & Hive)**  
-Performed big data analysis on flight delay data to uncover patterns across airports and airlines.  
-- Tools used: AWS EMR, Hive, Python  
-- Outcome: Built a prediction model with an accuracy of 88%, helping airlines optimize scheduling and reduce delays.
+Developed predictive models to identify patterns and forecast flight delays across major airports and airlines.
 
+- Processed 200K rows of flight data randomly sampled using Hive on AWS EMR
+- Implemented feature engineering techniques to improve model performance
+- Tested 3 different models (Logistic Regression, Random Forest, XGBoost) to optimize predictions
+- Achieved 88% prediction accuracy with the best-performing model
+- Tools used: AWS EMR, Hive, Python, Scikit-learn
+
+### 2. **NYC Electricity Forecasting Project (Python & Prophet)**
+Developed time series forecasting models to predict electricity consumption patterns in New York City.
+- Built 3 time-adaptive Prophet models for daily, monthly, and yearly consumption forecasting
+- Automated time unit detection to forecast 100-365 days, 1-9 months, or 1-5 years ahead
+- Optimized 5+ parameters including growth patterns, seasonality, and changepoints
+- Achieved 92% R² on daily model and reduced error by 17% through custom configurations
+- Tools used: Python, Prophet, Pandas, Matplotlib, Scikit-learn
 ---
 
 📫 **Let’s Connect**  
