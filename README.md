@@ -40,7 +40,7 @@ Developed predictive models to identify patterns and forecast flight delays acro
 ### 2. **NYC Electricity Forecasting Project (Python & Prophet)**
 Developed time series forecasting models to predict electricity consumption patterns in New York City.
 - Built 3 time-adaptive Prophet models for daily, monthly, and yearly consumption forecasting
-- Automated time unit detection to forecast 100-365 days, 1-9 months, or 1-5 years ahead
+- Automated time unit detection to forecast 1-9 months, or 1-5 years ahead
 - Optimized 5+ parameters including growth patterns, seasonality, and changepoints
 - Achieved 92% R² on daily model and reduced error by 17% through custom configurations
 - Tools used: Python, Prophet, Pandas, Matplotlib, Scikit-learn
